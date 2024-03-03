@@ -1,4 +1,4 @@
-# Responsive Dashboard Design 
+# Responsive Dashboard Design  
 Simple frontend design for a dashboard.
 
 # Screenshot
